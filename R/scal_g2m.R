@@ -12,8 +12,9 @@
 #'
 #' @return output Sample size
 #' @keywords means,two groups, power
-#'
+#' @export
 #' @examples
+#'
 #' scal_g2m(50, 70, 20, 20, 0.05, 0.80)
 #'
 #'

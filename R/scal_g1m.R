@@ -9,9 +9,9 @@
 #'
 #' @return output Sample size
 #' @keywords means, , precision
-#'
+#' @export
 #' @examples
-#' scal_g2p(10, 3, 0.05)
+#' scal_g1m(10, 3, 0.05)
 #'
 #'
 

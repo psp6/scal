@@ -14,14 +14,14 @@ scal_g1p(p, d, alpha)
 \item{alpha}{level for the confidence interval}
 }
 \value{
-output Sample size
+Sample size
 }
 \description{
-The function requires 1) assumped proportion 2) precision and 3)
+The function requires 1) assummed proportion 2) precision and 3)
 level of confidence as required input.
 }
 \examples{
-scal_g1p(0.05, 0.5, 0.05)
+scal_g1p(p=0.5, d=0.05, alpha=0.05)
 }
 \keyword{precision}
 \keyword{prevalence,}

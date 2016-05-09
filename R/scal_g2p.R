@@ -8,10 +8,10 @@
 #' @param alpha level for the confidence interval
 #'
 #' @return output Sample size
-#' @keywords means, , precision
-#'
+#' @keywords proportions
+#' @export
 #' @examples
-#' scal_g2p(10, 30, 0.05, 0.80)
+#' scal_g2p(0.10, 0.30, 0.05, 0.80)
 #'
 #'
 
