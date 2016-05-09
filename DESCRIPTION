@@ -1,0 +1,11 @@
+Package: scal
+Type: Package
+Title: Sample size calculation
+Version: 0.1.0
+Date: 2016-05-06
+Authors@R: person("Prasanna", "Premkumar", email = "prasanna.samuel@cmcvellore.ac.in", role = c("aut", "cre"))
+Description: Calculates sample size for commonly used study designs (maybe more
+    than one line)
+License: CC-BY-SA
+LazyData: TRUE
+RoxygenNote: 5.0.1
